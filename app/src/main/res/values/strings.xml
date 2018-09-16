@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fivechess Online</string>
+    <string name="title_activity_hall">HallActivity</string>
+</resources>
